@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-core
+unstructured
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+langchain-chroma
+dotenv
+uuid
+pathlib
+streamlit
+libmagic
+unstructured[local-inference]
+python-magic
+selenium
